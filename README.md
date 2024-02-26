@@ -114,11 +114,19 @@ This is interesting videos to know how to create draughts game play and minimax 
 
 ![whole code checker_gameplay](https://github.com/Kun10x/Baxter_Kinematics/tree/main/Checkers-AI-gameplay)
 
-# 5. Computer vision (Update soon!!!!!!)
+# 5. Computer vision 
+
+**Create work spaces, prepare for training models**
+
+**Bounding boxes and label objects**
+
+<img src="https://github.com/Kun10x/Baxter_Kinematics/blob/main/images/Screenshot%202023-05-07%20232910.png" width="600">
+
+**Train the model by Colab using yoloV8**
 
 <img src="https://github.com/Kun10x/Baxter_Kinematics/blob/main/images/Screenshot%202023-05-01%20003802.png" width="600">
 
-<img src="https://github.com/Kun10x/Baxter_Kinematics/blob/main/images/Screenshot%202023-05-07%20232910.png" width="600">
+
 
 # 6. Create Word Space (WS)
 
